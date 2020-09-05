@@ -7,7 +7,7 @@ Curious programer, enthusiastic on learning all kinds of stuff in most areas in 
 My passion is entrepreneurship, i belive that it's one of the most effective ways to do what you love, help people and be happy (Find ikigay)
 
 Today i'm the leader of an education startup that's rising to help highshool students get study in an organized way with free content online. For more information watch:
-https://www.youtube.com/watch?v=1b770VPGqb8&feature=youtu.be
+[Pitch Didatize](https://www.youtube.com/watch?v=1b770VPGqb8&feature=youtu.be)
 
 I very intrested in open source iniciatives and i'm intending to join this world of contribution soon.
 
