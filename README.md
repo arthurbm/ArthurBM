@@ -15,4 +15,4 @@ Where to find me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@tutabritom-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/tutabritom)](https://twitter.com/tutabritom) 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Brito-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/arthur-brito-medeiros-22ab01182/) 
-[![Gmail Badge](https://img.shields.io/badge/-arthurmedeiros32@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmedeiros32@gmail.com)](mailto:arthurmedeiros32@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arthurmedeiros32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmedeiros32@gmail.com)](mailto:arthurmedeiros32@gmail.com)
