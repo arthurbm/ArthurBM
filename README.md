@@ -12,3 +12,5 @@ Where to find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/arthur-brito-medeiros-22ab01182/) 
 [![Gmail Badge](https://img.shields.io/badge/-arthurmedeiros32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmedeiros32@gmail.com)](mailto:arthurmedeiros32@gmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBM&count_private=true&theme=radical)
