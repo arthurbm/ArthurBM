@@ -4,7 +4,7 @@
 **ArthurBM/ArthurBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Curious programer, enthusiastic on learning all kinds of stuff in most areas in order to help peoples lives!
 
-My passion is entrepreneurship, I belive that it's one of the most effective ways to do what you love, help people, and be happy (Finding ikigay)
+I have a passion for impactful iniciatives, entrepenourship, and I belive that it's one of the most effective ways to do what you love, help people, and be happy (Finding ikigay)
 
 I am very intrested in open source iniciatives and i'm intending to join this world of contribution soon.
 
